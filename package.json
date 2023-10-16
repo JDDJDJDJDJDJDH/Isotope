@@ -1,7 +1,7 @@
 {
   "name": "isotope",
   "version": "1.0.0",
-  "description": "Antimatter is a non-ultraviolet web proxy written in Node.js that supports many applications and websites. Unblock Here! ",
+  "description": "Isotope Games is an unblocked games website built with node.js. This website contains built in proxies and sophisticated tab cloakers!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
